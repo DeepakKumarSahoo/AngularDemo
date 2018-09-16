@@ -1,0 +1,57 @@
+.nav-bar{
+    border: 1px solid red;
+    text-align: center;
+    background: red;
+  }
+  
+  .container{
+    margin-left:200px !important;
+  }
+  
+  .w3-sidebar{
+    background-color: rgb(243, 240, 240) !important;
+  }
+  
+  #site-title {
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+  }
+  
+  .search-icon {
+    margin-left:10px;
+    font-size: 17px;
+  }
+  
+  .search-bar {
+    margin-top:10px;
+    margin-bottom:10px;
+  }
+  
+  .search-box {
+    border-radius: 5px;
+  }
+  
+  .search-bar input {
+    width: 96%;
+  }
+  
+  .video-item img {
+    max-width: 64px;
+  }
+  
+  .video-detail .details {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .list-group-item {
+    cursor: pointer;
+  }
+  
+  .list-group-item:hover {
+    background-color: #eee;
+  }
+  
